@@ -101,6 +101,14 @@ p {
   padding: 120px 60px;
 }
 
+.navbar-brand {
+  font-family: var(--heading-font-family);
+}
+
+.nav-item {
+  font-family: var(--default-font-family);
+}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
